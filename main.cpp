@@ -3,5 +3,5 @@ int main ()
 {
 	std::cout << " hi!! top-it!;
 	std::cout << "\n";
-	std::cout << "my name is not_chill_guy";
+	std::cout << "my name is cool_chill_guy";
 }
